@@ -1,5 +1,9 @@
 # Changelog
 
+## [V0.0.2](https://github.com/OpenVoiceOS/ovos-skill-personal/tree/V0.0.2) (2022-03-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-personal/compare/V0.0.2a1...V0.0.2)
+
 ## [V0.0.2a1](https://github.com/OpenVoiceOS/ovos-skill-personal/tree/V0.0.2a1) (2022-03-02)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-personal/compare/5c02b2a7cf7f5950a0e252e194c40e37012ce264...V0.0.2a1)
