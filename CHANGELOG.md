@@ -1,17 +1,29 @@
 # Changelog
 
-## [V0.0.2](https://github.com/OpenVoiceOS/ovos-skill-personal/tree/V0.0.2) (2022-03-02)
+## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-personal/compare/V0.0.2a1...V0.0.2)
-
-## [V0.0.2a1](https://github.com/OpenVoiceOS/ovos-skill-personal/tree/V0.0.2a1) (2022-03-02)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-personal/compare/5c02b2a7cf7f5950a0e252e194c40e37012ce264...V0.0.2a1)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a1...HEAD)
 
 **Merged pull requests:**
 
-- workflows [\#3](https://github.com/OpenVoiceOS/ovos-skill-personal/pull/3) ([JarbasAl](https://github.com/JarbasAl))
-- :tada: - packaging [\#1](https://github.com/OpenVoiceOS/ovos-skill-personal/pull/1) ([JarbasAl](https://github.com/JarbasAl))
+- feat/runtime\_requirements [\#5](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/5) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.3a1](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.3a1) (2022-03-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.2...V0.0.3a1)
+
+## [V0.0.2](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.2) (2022-03-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.2a1...V0.0.2)
+
+## [V0.0.2a1](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.2a1) (2022-03-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/5c02b2a7cf7f5950a0e252e194c40e37012ce264...V0.0.2a1)
+
+**Merged pull requests:**
+
+- workflows [\#3](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/3) ([JarbasAl](https://github.com/JarbasAl))
+- :tada: - packaging [\#1](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/1) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
