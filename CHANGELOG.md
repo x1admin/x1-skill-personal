@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a1...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a2...HEAD)
+
+**Merged pull requests:**
+
+- Remove duplicate translate actions [\#6](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/6) ([NeonDaniel](https://github.com/NeonDaniel))
+
+## [V0.0.3a2](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.3a2) (2023-02-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a1...V0.0.3a2)
 
 **Merged pull requests:**
 
