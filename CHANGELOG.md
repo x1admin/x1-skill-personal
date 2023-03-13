@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a3...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a4...HEAD)
+
+**Merged pull requests:**
+
+- Update build tests to shared workflow and include manifest tests [\#8](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/8) ([NeonDaniel](https://github.com/NeonDaniel))
+
+## [V0.0.3a4](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.3a4) (2023-03-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a3...V0.0.3a4)
 
 **Merged pull requests:**
 

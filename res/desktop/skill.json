@@ -2,7 +2,7 @@
     "authorname": "OpenVoiceOS",
     "foldername": "ovos-skill-personal",
     "url": "https://github.com/OpenVoiceOS/ovos-skill-personal",
-    "branch": "dev",
+    "branch": "v0.0.3",
     "license": "apache-2.0",
     "tags": [
         "personality",
