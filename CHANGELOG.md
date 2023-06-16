@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a1...HEAD)
+
+**Implemented enhancements:**
+
+- info from skill settings [\#10](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/10) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.4a1](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.4a1) (2023-05-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3...V0.0.4a1)
+
 ## [V0.0.3](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.3) (2023-03-13)
 
 [Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.3a4...V0.0.3)
