@@ -1,7 +1,7 @@
-from ovos_workshop.skills import OVOSSkill
-from mycroft.skills import intent_handler
-from ovos_utils.process_utils import RuntimeRequirements
 from ovos_utils import classproperty
+from ovos_utils.process_utils import RuntimeRequirements
+from ovos_workshop.decorators import intent_handler
+from ovos_workshop.skills import OVOSSkill
 
 
 class PersonalSkill(OVOSSkill):
@@ -19,35 +19,26 @@ class PersonalSkill(OVOSSkill):
 
     @intent_handler("WhenWereYouBorn.intent")
     def handle_when_were_you_born_intent(self, message):
-        self.speak_dialog("when.was.i.born")
+        self.speak_dialog("when.was.i.born",
+                          {"year": self.settings.get("year_of_birth", 2015)})
 
     @intent_handler("WhereWereYouBorn.intent")
     def handle_where_were_you_born_intent(self, message):
-        self.speak_dialog("where.was.i.born")
+        self.speak_dialog("where.was.i.born",
+                          {"location": self.settings.get("location_of_birth", "Lawrence Kansas")})
 
     @intent_handler("WhoMadeYou.intent")
     def handle_who_made_you_intent(self, message):
-        self.speak_dialog("who.made.me")
+        self.speak_dialog("who.made.me",
+                          {"creator": self.settings.get("creator", "OpenVoiceOS")})
 
     @intent_handler("WhoAreYou.intent")
     def handle_who_are_you_intent(self, message):
         name = self.config_core.get("listener", {}).get("wake_word",
                                                         "mycroft")
-        name = name.lower().replace("hey ", "")
+        name = name.lower().replace("_", "").replace("-", "").replace("hey ", "")
         self.speak_dialog("who.am.i", {"name": name})
 
     @intent_handler("WhatAreYou.intent")
     def handle_what_are_you_intent(self, message):
         self.speak_dialog("what.am.i")
-
-    @intent_handler("DoYouRhyme.intent")
-    def handle_do_you_rhyme(self, message):
-        self.speak_dialog("tell.a.rhyme")
-
-    @intent_handler("DoYouDream.intent")
-    def handle_do_you_dream(self, message):
-        self.speak_dialog("dream")
-
-
-def create_skill():
-    return PersonalSkill()
