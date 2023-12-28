@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a1...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a2...HEAD)
+
+**Merged pull requests:**
+
+- Fix French intents and dialogs [\#12](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/12) ([goldyfruit](https://github.com/goldyfruit))
+
+## [V0.0.4a2](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.4a2) (2023-06-16)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a1...V0.0.4a2)
 
 **Implemented enhancements:**
 
