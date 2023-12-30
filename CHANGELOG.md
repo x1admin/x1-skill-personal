@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a2...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a3...HEAD)
+
+**Merged pull requests:**
+
+- requirements/latest\_stable [\#13](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/13) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.4a3](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.4a3) (2023-12-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a2...V0.0.4a3)
 
 **Merged pull requests:**
 
