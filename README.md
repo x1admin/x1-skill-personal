@@ -10,13 +10,11 @@ who is fostering this open source artificial intelligence.
 * "What are you?"
 * "Where were you born?"
 * "Who made you?"
-* "Do you even rhyme?"
 
 ## Credits
 OpenVoiceOS (@OpenVoiceOS)
 Mycroft AI (@MycroftAI)
 
-Poem penned by community member Jelmer Prins
 
 ## Category
 **Entertainment**
