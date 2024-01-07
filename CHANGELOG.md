@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a3...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a4...HEAD)
+
+**Fixed bugs:**
+
+- fix mycroft's name [\#14](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/14) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.4a4](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.4a4) (2023-12-30)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a3...V0.0.4a4)
 
 **Merged pull requests:**
 
