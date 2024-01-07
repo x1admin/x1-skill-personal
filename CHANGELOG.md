@@ -2,7 +2,19 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a4...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a5...HEAD)
+
+**Fixed bugs:**
+
+- "My name is heymycroft" [\#11](https://github.com/OpenVoiceOS/skill-ovos-personal/issues/11)
+
+**Closed issues:**
+
+- Rename of repo [\#4](https://github.com/OpenVoiceOS/skill-ovos-personal/issues/4)
+
+## [V0.0.4a5](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.4a5) (2024-01-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a4...V0.0.4a5)
 
 **Fixed bugs:**
 
