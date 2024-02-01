@@ -2,7 +2,19 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a5...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a6...HEAD)
+
+**Closed issues:**
+
+- Can we get this out into a helper function and unit test it with common wakeword names? [\#15](https://github.com/OpenVoiceOS/skill-ovos-personal/issues/15)
+
+**Merged pull requests:**
+
+- refactor: assistant name [\#17](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/17) ([mikejgray](https://github.com/mikejgray))
+
+## [V0.0.4a6](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.4a6) (2024-01-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a5...V0.0.4a6)
 
 **Fixed bugs:**
 
