@@ -2,11 +2,19 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a6...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a7...HEAD)
 
 **Closed issues:**
 
 - Can we get this out into a helper function and unit test it with common wakeword names? [\#15](https://github.com/OpenVoiceOS/skill-ovos-personal/issues/15)
+
+**Merged pull requests:**
+
+- feat: settings examples [\#16](https://github.com/OpenVoiceOS/skill-ovos-personal/pull/16) ([mikejgray](https://github.com/mikejgray))
+
+## [V0.0.4a7](https://github.com/OpenVoiceOS/skill-ovos-personal/tree/V0.0.4a7) (2024-02-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-personal/compare/V0.0.4a6...V0.0.4a7)
 
 **Merged pull requests:**
 
