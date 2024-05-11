@@ -18,6 +18,22 @@ class PersonalSkill(OVOSSkill):
                                    no_network_fallback=True,
                                    no_gui_fallback=True)
 
+#START OF CUSTOM INTENTS
+    
+    @intent_handler("Gender.intent")
+    def handle_gender_intent(self, message: Message):
+        self.speak_dialog("gender")
+        
+    @intent_handler("DoYouRhyme.intent")
+    def handle_do_you_rhyme(self, message: Message):
+        self.speak_dialog("tell.a.rhyme")
+
+    @intent_handler("DoYouDream.intent")
+    def handle_do_you_dream(self, message: Message):
+        self.speak_dialog("dream")
+        
+#END OF CUSTOM INTENTS
+    
     @intent_handler("WhenWereYouBorn.intent")
     def handle_when_were_you_born_intent(self, message: Message):
         self.speak_dialog("when.was.i.born",
